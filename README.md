@@ -1,6 +1,7 @@
 # Origins Season2
 origins origins origins
 
+## List of Playable Origins:
 ### One Piece Origins
 ---
 **Glint-Glint Fruit**
@@ -185,7 +186,7 @@ origins origins origins
 - Yeti
 
 ### Happy Ghast and Ghast Origins
-
+---
 **Happy ghast:**
 - The first origin in this mod is the happy ghast. It mainly has the ability to fly and other players can ride you
 
@@ -253,3 +254,5 @@ Can't move and see for 10 seconds, but regenerate extremely quickly for 2 second
 - You hunger quickly
 - No armor above chainmail
 - You can only sleep at s high y level
+
+
