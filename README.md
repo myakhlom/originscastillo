@@ -2,7 +2,7 @@
 origins origins origins
 
 ## MODSLIST
--[List of Playable Origins](LoPO.md)
+- [List of Playable Origins](LoPO.md)
 - Sophisticated Backpacks
 - Simple Hats
 - REI
