@@ -1,7 +1,7 @@
 # Origins Season2
 origins origins origins
 
-## List of Playable Origins:
+## ✍️(◔◡◔)List of Playable Origins:
 ### One Piece Origins
 ---
 **Glint-Glint Fruit**
