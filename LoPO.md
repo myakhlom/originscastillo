@@ -1,6 +1,3 @@
-# Origins Season2
-origins origins origins
-
 ## ✍️(◔◡◔)List of Playable Origins:
 ### One Piece Origins
 ---
