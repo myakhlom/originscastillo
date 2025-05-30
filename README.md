@@ -2,7 +2,7 @@
 origins origins origins
 
 ### One Piece Origins
-----
+---
 **Glint-Glint Fruit**
 + Pillar of light that rains down light beams on entities under it
 + Makes a beam of light that does 5 damage
@@ -59,7 +59,7 @@ origins origins origins
 - More hunger
 
 ### Mythic Origins
-
+---
 **Phoenix**
 - Phoenix	A legendary firebird that rises from its own ashes
 - Wings of Flame: Majestic flight with fiery trails
@@ -98,7 +98,7 @@ origins origins origins
 - Desert Walker: Master the sands
 
 ### Fairytale Origins
-
+---
 **Red Riding Hood**
 - Red Riding Hood	A brave forest wanderer with enhanced survival skills
 - Axe Mastery: Enhanced skill with axes
@@ -164,7 +164,7 @@ origins origins origins
 - Night Vulnerability: Weakened after midnight
 
 ### Medieval Origins
-
+---
 - Alfiq
 - Arachnae
 - Banshee
@@ -193,8 +193,7 @@ origins origins origins
 - When you chosse this origin you will have the same powers as the not so friendly friend in the nether named a ghast. You can for example fly are immune to lava and shoot fireballs
 
 ### Even More Origins
-
-
+---
 **Frog:**
 + Double Jump
 + Hibernate
