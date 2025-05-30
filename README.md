@@ -1,6 +1,8 @@
 # Origins Season2
 origins origins origins
 
+## [DOWNLOAD (if u curseforge)](Origins2ModPack.zip)
+
 ## MODSLIST
 - [List of Playable Origins](LoPO.md)
 - [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks-unofficial-fabric-port)
