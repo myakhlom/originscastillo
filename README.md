@@ -1,6 +1,19 @@
 # Origins Season2
 origins origins origins
 
-## Click Here for Info on Diff. Mods
-[List of Playable Origins](LoPO.md)
+## MODSLIST
+-[List of Playable Origins](LoPO.md)
+- Sophisticated Backpacks
+- Simple Hats
+- REI
+- Jade
 
+## PLUGINLIST
+- EssentialsX
+- Luckperms
+- Dynmap
+- Authme
+- Skinsrestorer
+- TAB
+- Resource world
+- Discord chat plugin
