@@ -2,7 +2,7 @@
 origins origins origins
 
 ### One Piece Origins
---
+----
 **Glint-Glint Fruit**
 + Pillar of light that rains down light beams on entities under it
 + Makes a beam of light that does 5 damage
