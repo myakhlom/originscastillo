@@ -1,6 +1,6 @@
 ## ✍️(◔◡◔)List of Playable Origins:
 [Back](README.md)
-### One Piece Origins
+### [One Piece Origins](https://www.curseforge.com/minecraft/mc-mods/one-piece-origins)
 ---
 **Glint-Glint Fruit**
 + Pillar of light that rains down light beams on entities under it
@@ -57,7 +57,7 @@
 - 3 less hearts
 - More hunger
 
-### Mythic Origins
+### [Mythic Origins](https://www.curseforge.com/minecraft/mc-mods/mythic-origins)
 ---
 **Phoenix**
 - Phoenix	A legendary firebird that rises from its own ashes
@@ -96,7 +96,7 @@
 - Wish Magic: Grant limited boons
 - Desert Walker: Master the sands
 
-### Fairytale Origins
+### [Fairytale Origins](https://www.curseforge.com/minecraft/mc-mods/fairytale-origins)
 ---
 **Red Riding Hood**
 - Red Riding Hood	A brave forest wanderer with enhanced survival skills
@@ -162,7 +162,7 @@
 - No Boots: Cannot wear boots
 - Night Vulnerability: Weakened after midnight
 
-### Medieval Origins
+### [Medieval Origins Revival](https://www.curseforge.com/minecraft/mc-mods/medieval-origins-revival)
 ---
 - Alfiq
 - Arachnae
@@ -183,7 +183,7 @@
 - Wood Elf
 - Yeti
 
-### Happy Ghast and Ghast Origins
+### [Happy Ghast and Ghast Origins](https://www.curseforge.com/minecraft/mc-mods/happy-ghast-and-ghast-origins)
 ---
 **Happy ghast:**
 - The first origin in this mod is the happy ghast. It mainly has the ability to fly and other players can ride you
@@ -191,7 +191,7 @@
 **Ghast:**
 - When you chosse this origin you will have the same powers as the not so friendly friend in the nether named a ghast. You can for example fly are immune to lava and shoot fireballs
 
-### Even More Origins
+### [Even More Origins](https://www.curseforge.com/minecraft/mc-mods/even-more-origins-fabric)
 ---
 **Frog:**
 + Double Jump
