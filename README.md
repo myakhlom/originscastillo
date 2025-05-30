@@ -7,7 +7,7 @@ origins origins origins
 - [Simple Hats](https://www.curseforge.com/minecraft/mc-mods/simplehats)
 - [REI](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
 - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
-- [Other Dependencies](OD.md)
+- Other Dependencies
 
 ## PLUGINLIST
 - EssentialsX
