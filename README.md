@@ -62,105 +62,105 @@ origins origins origins
 ---
 
 **Phoenix**
-Phoenix	A legendary firebird that rises from its own ashes
-Wings of Flame: Majestic flight with fiery trails
-Fire Immunity: Master of flames and lava
-Rebirth: Rise anew from death
-Solar Strength: Power from daylight
-Weakness: Vulnerable to water
+- Phoenix	A legendary firebird that rises from its own ashes
+- Wings of Flame: Majestic flight with fiery trails
+- Fire Immunity: Master of flames and lava
+- Rebirth: Rise anew from death
+- Solar Strength: Power from daylight
+- Weakness: Vulnerable to water
 
 **Kitsune**
-Kitsune	A mystical fox spirit with mastery over illusions
-Fox Form: Graceful fox-like appearance
-Fox Fire: Mystical flame powers
-Fox Agility: Enhanced movement
-Weakness: Gold weapons reveal true form
+- Kitsune	A mystical fox spirit with mastery over illusions
+- Fox Form: Graceful fox-like appearance
+- Fox Fire: Mystical flame powers
+- Fox Agility: Enhanced movement
+- Weakness: Gold weapons reveal true form
 
 **Druid**
-Druid	A guardian of nature with deep connections to the natural world
-Forest Blend: One with nature
-Natural Healing: Earth's blessing
-Weakness: Weakened underground
+- Druid	A guardian of nature with deep connections to the natural world
+- Forest Blend: One with nature
+- Natural Healing: Earth's blessing
+- Weakness: Weakened underground
 
 **Valkyrie**
-Valkyrie	A divine warrior maiden with mastery over combat
-Divine Wings: Ethereal flight
-Valkyrie's Wrath: Ground-shattering slam
-Shield Mastery: Enhanced defense
-Battle Cry: Empower allies
-Weakness: Dark magic vulnerability
+- Valkyrie A divine warrior maiden with mastery over combat
+- Divine Wings: Ethereal flight
+- Valkyrie's Wrath: Ground-shattering slam
+- Shield Mastery: Enhanced defense
+- Battle Cry: Empower allies
+- Weakness: Dark magic vulnerability
 
 **Djinn**
-Djinn	A mystical desert spirit with control over sand and wind
-Sand Form: Become one with the desert
-Sandstorm: Create blinding storms
-Mirage: Deceptive illusions
-Wish Magic: Grant limited boons
-Desert Walker: Master the sands
+- Djinn	A mystical desert spirit with control over sand and wind
+- Sand Form: Become one with the desert
+- Sandstorm: Create blinding storms
+- Mirage: Deceptive illusions
+- Wish Magic: Grant limited boons
+- Desert Walker: Master the sands
 
 **Red Riding Hood**
-Red Riding Hood	A brave forest wanderer with enhanced survival skills
-Axe Mastery: Enhanced skill with axes
-Wolf Detection: Sense nearby threats
-Forest Stealth: Blend with the woods
-Village Hero: Beloved by villagers
-Night Vulnerability: Weakened after dark
+- Red Riding Hood	A brave forest wanderer with enhanced survival skills
+- Axe Mastery: Enhanced skill with axes
+- Wolf Detection: Sense nearby threats
+- Forest Stealth: Blend with the woods
+- Village Hero: Beloved by villagers
+- Night Vulnerability: Weakened after dark
 
 **Big Bad Wolf**
-Big Bad Wolf	A powerful nocturnal hunter with pack mentality
-Night Vision: See in darkness
-Night Speed: Enhanced nighttime movement
-Huffing & Puffing: Powerful breath attack
-Pack Mentality: Stronger with allies
-Daylight Weakness: Vulnerable in sunlight
+- Big Bad Wolf	A powerful nocturnal hunter with pack mentality
+- Night Vision: See in darkness
+- Night Speed: Enhanced nighttime movement
+- Huffing & Puffing: Powerful breath attack
+- Pack Mentality: Stronger with allies
+- Daylight Weakness: Vulnerable in sunlight
 
 **Little Mermaid**
-Little Mermaid	A mystical sea dweller with command over water
-Ocean Mastery: Control the waters
-Siren's Call: Enchanting melodies
-Underwater Combat: Enhanced aquatic fighting
-Water Dependency: Need water to survive
-Land Weakness: Struggles on dry land
+- Little Mermaid	A mystical sea dweller with command over water
+- Ocean Mastery: Control the waters
+- Siren's Call: Enchanting melodies
+- Underwater Combat: Enhanced aquatic fighting
+- Water Dependency: Need water to survive
+- Land Weakness: Struggles on dry land
 
 **Minotaur**
-Minotaur	A mighty labyrinth dweller with unstoppable charge
-Enhanced Strength: Powerful attacks
-Bull Rush: Devastating charge attack
-Tough Hide: Natural armor
-Slow Movement: Reduced speed
-Open Space Vulnerability: Weakened in open areas
+- Minotaur	A mighty labyrinth dweller with unstoppable charge
+- Enhanced Strength: Powerful attacks
+- Bull Rush: Devastating charge attack
+- Tough Hide: Natural armor
+- Slow Movement: Reduced speed
+- Open Space Vulnerability: Weakened in open areas
 
 **Frog Prince**
-Frog Prince	A cursed royal with amphibian abilities
-Amphibian Abilities: Water mastery
-Underwater Vision: Clear sight in water
-Dance Magic: Special abilities
-Enhanced Jump: Powerful leaps
-Hot Biome Vulnerability: Weakened in heat
+- Frog Prince	A cursed royal with amphibian abilities
+- Amphibian Abilities: Water mastery
+- Underwater Vision: Clear sight in water
+- Dance Magic: Special abilities
+- Enhanced Jump: Powerful leaps
+- Hot Biome Vulnerability: Weakened in heat
 
 **Jack (Beanstalk)**
-Jack (Beanstalk)	A clever adventurer who challenges giants
-Bean Planter: Create magical beanstalks
-Giant Slayer: Extra damage to large foes
-Vine Ladder: Climb any surface
-Height Weakness: Takes more fall damage
-Increased Hunger: Needs more food
+- Jack (Beanstalk)	A clever adventurer who challenges giants
+- Bean Planter: Create magical beanstalks
+- Giant Slayer: Extra damage to large foes
+- Vine Ladder: Climb any surface
+- Height Weakness: Takes more fall damage
+- Increased Hunger: Needs more food
 
 **Sleeping Beauty**
-Sleeping Beauty	A cursed princess with mysterious powers
-Enhanced Movement: Graceful steps
-Sleep Deprivation: Must rest regularly
-Graceful Step: Light-footed movement
-Armor Vulnerability: Weak to metal armor
-Poison Vulnerability: Susceptible to poisons
+- Sleeping Beauty	A cursed princess with mysterious powers
+- Enhanced Movement: Graceful steps
+- Sleep Deprivation: Must rest regularly
+- Graceful Step: Light-footed movement
+- Armor Vulnerability: Weak to metal armor
+- Poison Vulnerability: Susceptible to poisons
 
 **Cinderella**
-Cinderella	A determined maiden with midnight restrictions
-Enhanced Movement: Swift and graceful
-Dance Magic: Special abilities at night
-No Chestplate: Cannot wear heavy armor
-No Boots: Cannot wear boots
-Night Vulnerability: Weakened after midnight
+- Cinderella	A determined maiden with midnight restrictions
+- Enhanced Movement: Swift and graceful
+- Dance Magic: Special abilities at night
+- No Chestplate: Cannot wear heavy armor
+- No Boots: Cannot wear boots
+- Night Vulnerability: Weakened after midnight
 
 Alfiq
 Arachnae
@@ -182,11 +182,9 @@ Wood Elf
 Yeti
 
 **Happy ghast:**
-
 The first origin in this mod is the happy ghast. It mainly has the ability to fly and other players can ride you
 
 **Ghast:**
-
 when you chosse this origin you will have the same powers as the not so friendly friend in the nether named a ghast. You can for example fly are immune to lava and shoot fireballs
 
 
