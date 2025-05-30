@@ -1,7 +1,7 @@
-# originscastillo
+# Origins Season2
 origins origins origins
 
-## One Piece Origins
+### One Piece Origins
 
 **Glint-Glint Fruit**
 + Pillar of light that rains down light beams on entities under it
@@ -58,7 +58,7 @@ origins origins origins
 - 3 less hearts
 - More hunger
 
-## Mythic Origins
+### Mythic Origins
 
 **Phoenix**
 - Phoenix	A legendary firebird that rises from its own ashes
@@ -97,7 +97,7 @@ origins origins origins
 - Wish Magic: Grant limited boons
 - Desert Walker: Master the sands
 
-## Fairytale Origins
+### Fairytale Origins
 
 **Red Riding Hood**
 - Red Riding Hood	A brave forest wanderer with enhanced survival skills
@@ -163,7 +163,7 @@ origins origins origins
 - No Boots: Cannot wear boots
 - Night Vulnerability: Weakened after midnight
 
-## Medieval Origins
+### Medieval Origins
 
 - Alfiq
 - Arachnae
@@ -192,7 +192,7 @@ origins origins origins
 **Ghast:**
 - When you chosse this origin you will have the same powers as the not so friendly friend in the nether named a ghast. You can for example fly are immune to lava and shoot fireballs
 
-## Even More Origins
+### Even More Origins
 
 
 **Frog:**
